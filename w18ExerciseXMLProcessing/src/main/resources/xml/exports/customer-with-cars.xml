@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<customers>
+    <customer full-name="Rema Revelle" bought-cars="4" spent-money="3223.6835"/>
+    <customer full-name="Francis Mckim" bought-cars="4" spent-money="2428.578"/>
+    <customer full-name="Zada Attwood" bought-cars="3" spent-money="4182.754"/>
+    <customer full-name="Hai Everton" bought-cars="3" spent-money="3937.2809999999995"/>
+    <customer full-name="Daniele Zarate" bought-cars="3" spent-money="1942.3315000000002"/>
+    <customer full-name="Natalie Poli" bought-cars="3" spent-money="1665.6035"/>
+    <customer full-name="Carole Witman" bought-cars="3" spent-money="1072.232"/>
+    <customer full-name="Faustina Burgher" bought-cars="3" spent-money="1033.955"/>
+    <customer full-name="Sylvie Mcelravy" bought-cars="2" spent-money="2110.1099999999997"/>
+    <customer full-name="Ann Mcenaney" bought-cars="2" spent-money="1159.9180000000001"/>
+    <customer full-name="Rico Peer" bought-cars="2" spent-money="1120.188"/>
+    <customer full-name="Kristian Engberg" bought-cars="2" spent-money="1089.346"/>
+    <customer full-name="Johnette Derryberry" bought-cars="2" spent-money="1016.9565"/>
+    <customer full-name="Taina Achenbach" bought-cars="2" spent-money="623.297"/>
+    <customer full-name="Yvonne Mccalla" bought-cars="2" spent-money="473.79600000000005"/>
+    <customer full-name="Jimmy Grossi" bought-cars="2" spent-money="326.46900000000005"/>
+    <customer full-name="Lino Subia" bought-cars="2" spent-money="282.993"/>
+    <customer full-name="Louann Holzworth" bought-cars="1" spent-money="786.588"/>
+    <customer full-name="Garret Capron" bought-cars="1" spent-money="649.383"/>
+    <customer full-name="Hipolito Lamoreaux" bought-cars="1" spent-money="388.00800000000004"/>
+    <customer full-name="Emmitt Benally" bought-cars="1" spent-money="188.60649999999998"/>
+    <customer full-name="Cinthia Lasala" bought-cars="1" spent-money="177.6215"/>
+    <customer full-name="Teddy Hobby" bought-cars="1" spent-money="90.485"/>
+</customers>
